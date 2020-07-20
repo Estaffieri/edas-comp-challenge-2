@@ -1,0 +1,37 @@
+// E5FCC2   9DE0AD   45ADA8   547980   594F4F//
+//><><><><><><><SIDE-BAR-SECTION><><><><><><//
+.side-bar {
+  background-color: #594F4F;
+  max-width: 10em;
+  height: 100%;
+  position: fixed;
+  top: 0; 
+  left: 0;
+}
+
+.circle-image {
+
+}
+
+.side-bar-sub-sections {
+color: #E5FCC2;
+}
+
+.soft-heading {
+
+}
+
+ul {
+
+}
+//><><><><><><><HEADER-SECTION><><><><><><//
+.header-section {
+  display: flex;
+  background-color: white;
+  width: 80%;
+  margin-left: 10.5em;
+}
+
+.drop-down-menus {
+
+}
